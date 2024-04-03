@@ -1,6 +1,6 @@
 # car_object_detection
 
-Final Project for DTS
+Final Project for DTS 2022
 
 Reference: 
 - https://pjreddie.com/media/files/papers/YOLOv3.pdf
